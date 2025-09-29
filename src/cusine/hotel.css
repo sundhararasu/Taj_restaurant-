@@ -1,0 +1,42 @@
+.search:focus {
+  outline: none;
+  border: none;
+  box-shadow: none;
+ 
+}
+.search:hover{
+     border-bottom:1px solid black !important ;
+}
+.search-wrapper {
+  position: relative;
+  width: 100%;                 
+}
+
+.search {
+  width: 100%;
+  background-color: #f5f6f6;
+  border: none;
+  border-bottom: 1px solid grey;
+  outline: none;
+  padding-left: 30px;         
+}
+
+.search-icon {
+  position: absolute;
+  left: 8px;                   
+  top: 50%;
+  transform: translateY(-50%); 
+  height: 13px;
+  pointer-events: none;        
+}
+.hot{
+    all:unset;
+    border: none;
+    border-top:1px solid black;
+    width: 35px;
+    position: relative;
+}
+.hotel{
+    font-family:Cinzel, Palatino Linotype, sans-serif;
+    text-transform: uppercase;
+}

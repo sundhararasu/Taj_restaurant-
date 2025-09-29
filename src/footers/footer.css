@@ -1,0 +1,16 @@
+.foot ul li a {
+    color: white;
+    text-decoration: none;
+}
+.brand{
+   font-family:  Palatino Linotype, sans-serif !important;
+   font-weight: 300;
+}
+.cor a{
+    text-decoration: none !important;
+    color:white;
+    border-right:1px solid grey;
+    padding-right: 15px;
+    margin-right: 15px;
+    font-size: 11px;
+}

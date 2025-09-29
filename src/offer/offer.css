@@ -1,0 +1,16 @@
+.re{
+    all:unset;
+    border: none;
+    border-top:1px solid black;
+    width: 60px;
+}
+.r{
+    font-family:Cinzel, Palatino Linotype, sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.fes{
+    
+    background-color:white;
+   box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+}
